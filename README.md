@@ -1,9 +1,9 @@
 # Overview
 
-As a software engineer striving to enhance my skills, I embarked on a project to delve into machine learning and data analysis. For this project, I utilized a dataset obtained from [source], comprising student performance records in various subjects, alongside demographic details such as gender, race/ethnicity, parental level of education, lunch type, and test preparation course completion status. My objective was to develop a machine learning model capable of predicting student performance based on these factors, thereby gaining insights into the underlying relationships between demographic attributes and academic outcomes.
+As a software engineer striving to enhance my skills, I embarked on a project to delve into machine learning and data analysis. For this project, I utilized a dataset obtained from Kaggle, comprising student performance records in various subjects, alongside demographic details such as gender, race/ethnicity, parental level of education, lunch type, and test preparation course completion status. My objective was to develop a machine learning model capable of predicting student performance based on these factors, thereby gaining insights into the underlying relationships between demographic attributes and academic outcomes.
 
 [Software Demo Video](http://youtube.link.goes.here)
-
+[Link to Dataset](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance)
 # Data Analysis Results
 
 **Questions and Answers:**
